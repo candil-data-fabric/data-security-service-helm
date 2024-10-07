@@ -1,0 +1,10 @@
+
+replicaCount: 1
+name: Data Security Service
+image:
+  repository: data-security-service
+  pullPolicy: IfNotPresent
+  tag: "latest"
+
+
+

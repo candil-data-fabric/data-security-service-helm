@@ -1,0 +1,10 @@
+apiVersion: v2
+name: .
+description: Data Security Service - Helm Chart.
+type: application
+sources:
+  - "https://github.com/candil-data-fabric/data-security-service"
+maintainers:
+  - name: David Martínez García
+version: 1.0.0
+appVersion: "1.0.0"
