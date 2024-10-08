@@ -2,9 +2,9 @@
 replicaCount: 1
 name: Data Security Service
 image:
-  repository: data-security-service
+  repository: data_security_service
   pullPolicy: IfNotPresent
-  tag: "latest"
+  tag: latest
 
 
 
