@@ -2,8 +2,8 @@
 replicaCount: 1
 name: Data Security Service
 image:
-  repository: data_security_service
-  pullPolicy: IfNotPresent
+  repository: ghcr.io/candil-data-fabric/data-security-service
+  pullPolicy: Always
   tag: latest
 
 
