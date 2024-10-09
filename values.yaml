@@ -1,0 +1,10 @@
+
+replicaCount: 1
+name: Data Security Service
+image:
+  repository: ghcr.io/candil-data-fabric/data-security-service
+  pullPolicy: Always
+  tag: latest
+
+
+
