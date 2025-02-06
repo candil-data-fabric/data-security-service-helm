@@ -1,6 +1,6 @@
 # Data Security Service Helm Chart
 
-## Current version: 1.1.0 (February 3rd, 2025).
+## Current version: 1.1.1 (February 6th, 2025).
 
 ## Installation
 
