@@ -3,9 +3,9 @@ entries:
   data-security-service:
   - apiVersion: v2
     appVersion: 1.1.1
-    created: "2025-03-10T08:12:49.866240142Z"
+    created: "2025-06-04T11:45:53.663866119Z"
     description: Data Security Service - A Helm Chart for Kubernetes
-    digest: 9e51c9e39803622f6ced3f2225a11fbc6e99466d10982a3b060963fe80ac799c
+    digest: 8a04e03377d2b572fc71636196dd258a67db3c6ab8ea3e0cbdd58b9b0d6fc908
     maintainers:
     - name: Lucía Cabanillas Rodríguez
     - name: David Martínez García
@@ -14,4 +14,4 @@ entries:
     urls:
     - https://candil-data-fabric.github.io/data-security-service-helm/data-security-service-1.1.1.tgz
     version: 1.1.1
-generated: "2025-03-10T08:12:49.865540207Z"
+generated: "2025-06-04T11:45:53.662974422Z"
